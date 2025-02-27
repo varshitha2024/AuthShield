@@ -13,7 +13,7 @@ AuthShield is a Node.js application that provides user authentication and author
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/AuthShield.git
+    git clone https://github.com/varshitha2024/AuthShield.git
     cd AuthShield
     ```
 
